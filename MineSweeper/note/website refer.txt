@@ -1,0 +1,7 @@
+
+
+BufferedImage:
+https://www.it-swarm-vi.com/vi/java/java-chuyen-doi-hinh-anh-thanh-bufferedimage/1070352556/
+
+xu ly anh:
+https://phocode.com/java/java-2d/java-2d-xu-ly-anh/
